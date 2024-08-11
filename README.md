@@ -2,6 +2,9 @@ MOVIEBOX
 -------------------------------------------------------------------------------
 
 Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi 
+
+
+
 Members: 
 1] Akash Tayade
 2] Mahewish Sayyed
