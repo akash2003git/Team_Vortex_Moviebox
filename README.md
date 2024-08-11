@@ -1,7 +1,7 @@
 MOVIEBOX
 -------------------------------------------------------------------------------
 
-Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi 
+Project created by Team Vortex for the Gen AI hackathon hosted by Shivam Joshi 
 
 Members: 
 
