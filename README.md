@@ -1,10 +1,11 @@
-Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi \n
-Members: \n
+MOVIEBOX
+-------------------------------------------------------------------------------
+
+Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi 
+Members: 
 1] Akash Tayade
 2] Mahewish Sayyed
 3] Siddhi Mude
-
--------------------------------------------------------------------------------
 
 This is a Movie Recommender System built using Streamlit. The app allows users to select a movie from a dropdown list and get up to 15 similar movie recommendations based on that selection. Each recommendation includes the movie title, release date, rating, and an overview. Users can also add movies to their personal watchlist, which is managed in the session state.
 
