@@ -1,5 +1,5 @@
-Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi
-Members:
+Project created by Team Vortex for the Gen AI hackathon by Shivam Joshi \n
+Members: \n
 1] Akash Tayade
 2] Mahewish Sayyed
 3] Siddhi Mude
